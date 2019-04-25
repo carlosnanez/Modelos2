@@ -13,6 +13,5 @@ def recorrer(lista):
     if len(lista)>0:
         recorrer(girar(lista))
    
-lista = leerArchivo()
-recorrer(lista)
+recorrer(leerArchivo())
 

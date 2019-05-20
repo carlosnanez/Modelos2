@@ -34,7 +34,7 @@ def insertar(arbol, valor):
             return Nodo(arbol.valor, arbol.izq, valor)
         return Nodo(arbol.valor, arbol.izq, insertar(arbol.der,valor))
     elif (arbol.valor<valor):
-        if arbol.der==None:
+        if arbol.izq==None:
             return Nodo(arbol.valor, valor, arbol.der)
         return Nodo(arbol.valor, insertar(arbol.izq, valor), arbol.der)
 

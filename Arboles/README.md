@@ -3,4 +3,4 @@ repositorio de ejercicios y proyectos realizados en la asignatura teniendo como 
 ## Integrantes
 Sergio Duvan Nuñez Sanchez 20161020133 -    
 Dannyr Gustavo Garcia Cardozo 20152020222 -   
-Carlos Ñañez Molina 20152020  
+Carlos Ñañez Molina 20152020030  

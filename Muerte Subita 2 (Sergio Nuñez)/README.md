@@ -1,6 +1,4 @@
 # Modelos2
-repositorio de ejercicios y proyectos realizados en la asignatura teniendo como docente al profesor Daza
+Repositorio del ejercicio dejado como compensación de completar 2 de los 3 ejercicios de la practica de muerte subita sobre calculo lambda
 ## Integrantes
-Sergio Duvan Nuñez Sanchez 20161020133 -    
-Dannyr Gustavo Garcia Cardozo 20152020222 -   
-Carlos Ñañez Molina 20152020  
+Sergio Duvan Nuñez Sanchez 20161020133

@@ -1,0 +1,27 @@
+body{
+    font: G 'Times New Roman';
+    text-align: center; 
+     
+}
+h1,h2{
+    color: #315b13;
+}
+
+#foto{
+   text-align: center;
+}
+
+section{
+    text-align: left;
+    margin: 10px;
+    padding: 10px; 
+    /*border-style: solid;*/
+    display: inline-table;
+    
+}
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 25px;
+}

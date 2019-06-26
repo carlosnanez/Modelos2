@@ -1,0 +1,21 @@
+body{
+color: 52525;
+background-image: url("Fondo.jpg");
+	
+}
+#foto{
+    position: absolute;
+    right: 0px;
+    top: 50px;
+}
+#datosAcademicos,#datosPersonales,#datosLaborales{
+    position: relative;
+    left: 50px;
+}
+#direccion{
+    position: relative;
+    left: 550px;
+}
+#cabezera{
+    text-align: center;
+}

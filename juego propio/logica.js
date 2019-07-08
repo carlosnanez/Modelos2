@@ -1,7 +1,7 @@
 /* https://developer.mozilla.org/es/docs/Games/Workflows/Famoso_juego_2D_usando_JavaScript_puro */
 
 var canvas = document.getElementById("myCanvas");
-var ctx = canvas.getContext("2D");
+var ctx = canvas.getContext("2d");
 
 ctx.beginPath();
 ctx.rect(20, 40, 50, 50);

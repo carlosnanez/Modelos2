@@ -1,0 +1,14 @@
+{
+  "name": "proyecto_final_modelos_ii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Sergio_Y_Gustavo",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^7.11.0"
+  }
+}
